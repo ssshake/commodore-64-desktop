@@ -1,0 +1,1 @@
+copy rdesktop.prg desktop
