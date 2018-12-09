@@ -1,1 +1,2 @@
-copy rdesktop.prg desktop
+copy desktop.prg desktop
+copy desktop d:\
