@@ -18,14 +18,14 @@ The desktop also features a clock which counts the hours, minutes, seconds of up
 
 To configure the applications to be launched, the application names on screen literally map to the program names on disk. The c64desktop.d64 floppy image provided has 8 corresponding programs included.
 
-Files: SDBrowse v4
-BBS: CCGMS
-Paint: Pixel Paint
-Game: Portal (for now)
-Word: A light weight word processor
-Sheets: A decent spreadsheets application
-Music: A SD2IEC compatible SID music player
-Basic: Will quit the program and return to basic.
+- Files: SDBrowse v4
+- BBS: CCGMS
+- Paint: Pixel Paint
+- Game: Portal (for now)
+- Word: A light weight word processor
+- Sheets: A decent spreadsheets application
+- Music: A SD2IEC compatible SID music player
+- Basic: Will quit the program and return to basic.
 
 To customize the desktop to use your preferred apps, copy your application to the same location as the desktop program. Then rename your program to 'Files' for example, to have the files icon launch you files program.
 
