@@ -1,4 +1,4 @@
-Commodore 64 Desktop attempts to offer a desktop styled launcher program.
+### Commodore 64 Desktop attempts to offer a desktop styled launcher program.
 
 Features:
 
