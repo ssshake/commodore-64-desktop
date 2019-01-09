@@ -43,7 +43,7 @@ The command line is very basic but it meant to be used with an sd2iec SD card re
 
 The screensaver will come on after roughly 1 minute. During this time the program will start at byte 1 in RAM and work its way to the end of the C64's ram. And then it will repeat.
 
-Each bit it printed on screen and each byte alternates in color by green and light green. 
+Each bit is printed on screen and each byte alternates in color by green and light green. 
 
 While the screensaver is running you can press + or - at any time to move forward or backwards a page at a time through the ram. 1 page = 110 bytes. 
 
